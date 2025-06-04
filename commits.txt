@@ -16,3 +16,4 @@ Commit del 2025-05-31
 Commit del 2025-06-01
 Commit del 2025-06-02
 Commit del 2025-06-03
+Commit del 2025-06-04
